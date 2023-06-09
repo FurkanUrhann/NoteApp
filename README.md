@@ -17,12 +17,23 @@ Bu projede, SQL Lite kullanılarak bir not uygulaması yaptım. Başlık, not ve
 ## Ekran Görüntüleri
 
 <div>
-  <img src="https://github.com/FurkanUrhann/NoteApp/assets/130754219/88c868ef-11e0-49bb-80de-049d9ca76c08" alt="1" width="250">
-  <img src="https://github.com/FurkanUrhann/NoteApp/assets/130754219/715c4404-630e-40b4-b583-dad27675f991" alt="2" width="250">
-  <img src="https://github.com/FurkanUrhann/NoteApp/assets/130754219/ab6b12ea-25ca-4835-975e-2378432e5647" alt="3" width="250">
- </div>
+  <img src="https://github.com/FurkanUrhann/NoteApp/assets/130754219/4f322e07-4131-44fe-978e-6dcb97edc76d" alt="1" width="250">
+  <img src="https://github.com/FurkanUrhann/NoteApp/assets/130754219/b31be670-72b0-4a67-8cec-61ccc928f9d2" alt="2" width="250">
+  <img src="https://github.com/FurkanUrhann/NoteApp/assets/130754219/81e11ae2-d192-49e6-93ac-ee81dd58aa4f" alt="3" width="250">
+
+
+
+</div>
  
  
 
-https://github.com/FurkanUrhann/NoteApp/assets/130754219/5bbaca59-254d-49bb-930f-736c5e0a98bd
+
+
+
+https://github.com/FurkanUrhann/NoteApp/assets/130754219/e6ec9153-8f67-4995-b86c-c457c5346d9f
+
+
+
+
+
 
